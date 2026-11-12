@@ -153,9 +153,3 @@ The objective is to demonstrate how machine learning can be applied to a real-wo
 **Keeratjot Singh**
 
 GitHub: [@ksingh0777](https://github.com/ksingh0777)
-
-Project Repository: [Laptop Price Predictor](https://github.com/ksingh0777/Laptop-price-predictor)
-
-## 📌 Attribution
-
-This repository is based on the project originally hosted at [dvnr-s/Laptop-price-predictor](https://github.com/dvnr-s/Laptop-price-predictor). Original Git history is retained. Please refer to the original repository and its applicable license for authorship and usage permissions.
